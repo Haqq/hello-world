@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-A big shout-out to Tech guys, the world evolves in their hands
+A big shout-out to Tech guys, the world evolves in their hands.
